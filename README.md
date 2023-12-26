@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently Learning MERN Stack<br>👯 I’m looking to collaborate on Making amazing projects<br>🌱 I’m currently learning DSA in CPP<br>💬 Code, coffee, and creativity 💻🎨<br>⚡ Fun fact "I love to read about Geopolitics"<br>
 Project 1:(https://generate-paper.onrender.com)<br>
-Project 1:(https://wanderlust-cv43.onrender.com)<br>
+Project 2:(https://wanderlust-cv43.onrender.com)<br>
 
 
 ## 🌐 Socials:
