@@ -8,7 +8,7 @@
 🔭 I’m currently Learning MERN Stack<br>👯 I’m looking to collaborate on Making amazing projects<br>🌱 I’m currently learning DSA in CPP<br>💬 Code, coffee, and creativity 💻🎨<br>⚡ Fun fact "I love to read about Geopolitics"<br>
 Project 1:(https://generate-paper.onrender.com)<br>
 Project 2:(https://wanderlust-cv43.onrender.com)<br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"><br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil7585/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodingHima) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CodingHima) 
